@@ -8,12 +8,10 @@
     <img
       width="256"
       align="right"
-      src="https://githubusercontent.com/Shadow-Chaser/Shadow-Chaser/main/devcard.svg"
+      src="https://raw.githubusercontent.com/Shadow-Chaser/Shadow-Chaser/main/devcard.svg"
     />
   </a>
 </div>
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadow-chaser&label=Profile%20views&color=0e75b6&style=flat" alt="shadow-chaser" /> </p>
 
