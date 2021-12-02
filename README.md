@@ -1,14 +1,14 @@
 <div align="left">
  <div>
-  <h1 align="center">Hi 👋, I'm Ashab Hussan</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
+  <h1>Hi 👋, I'm Ashab Hussan</h1>
+<h3>A passionate Web Developer from Bangladesh</h3>
  </div>
 
   <a href="https://app.daily.dev/Shadow_Chaser" target="_blank">
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/Shadow-Chaser/Shadow-Chaser/devcard/devcard.svg"
+      src="https://raw.githubusercontent.com/Shadow-Chaser/Shadow-Chaser/main/devcard.svg"
     />
   </a>
 </div>
