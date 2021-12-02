@@ -8,7 +8,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/Shadow-Chaser/Shadow-Chaser/main/devcard.svg"
+      src="https://githubusercontent.com/Shadow-Chaser/Shadow-Chaser/main/devcard.svg"
     />
   </a>
 </div>
