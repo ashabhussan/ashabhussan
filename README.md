@@ -1,6 +1,4 @@
 <div align="left">
-<h1>Hi 👋, I'm Ashab Hussan</h1>
-<h3>A passionate Web Developer from Bangladesh</h3>
   <a href="https://app.daily.dev/Shadow_Chaser" target="_blank">
     <img
       width="256"
@@ -8,6 +6,9 @@
       src="https://raw.githubusercontent.com/Shadow-Chaser/Shadow-Chaser/main/devcard.svg"
     />
   </a>
+<h1>Hi 👋, I'm Ashab Hussan</h1>
+<h3>A passionate Web Developer from Bangladesh</h3>
+  
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadow-chaser&label=Profile%20views&color=0e75b6&style=flat" alt="shadow-chaser" /> </p>
