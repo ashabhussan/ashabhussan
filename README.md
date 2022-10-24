@@ -17,13 +17,13 @@
 
 - 🌱 I’m currently learning **`Best Practices and Conventions of Rest API`**
 
-- 🧾 Know about my experiences [`Resume`](https://drive.google.com/file/d/1tAIPp68onvDwA-SlOWDWU6xY_liz-2mx/view){:target="_blank"}
+- 🧾 Know about my experiences [`Resume`](https://drive.google.com/file/d/1tAIPp68onvDwA-SlOWDWU6xY_liz-2mx/view)
 
-- ⚡ Favorite: I love to read books [`Goodreads`](https://www.goodreads.com/ashabhussan){:target="_blank"}
+- ⚡ Favorite: I love to read books [`Goodreads`](https://www.goodreads.com/ashabhussan)
 
- - 🟢 Currently I'm reading [`Rich Dad Poor Dad`](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad){:target="_blank"} by Robert T. Kiyosaki
+ - 🟢 Currently I'm reading [`Rich Dad Poor Dad`](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) by Robert T. Kiyosaki
 
-- 📝 I rarely write articles on [`Hashnode`](https://ashabhussan.hashnode.dev){:target="_blank"}
+- 📝 I rarely write articles on [`Hashnode`](https://ashabhussan.hashnode.dev)
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
