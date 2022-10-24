@@ -17,19 +17,19 @@
 
 - 🌱 I’m currently learning **`Best Practices and Conventions of Rest API`**
 
-- 🧾 Know about my experiences [`Resume`](https://drive.google.com/file/d/1tAIPp68onvDwA-SlOWDWU6xY_liz-2mx/view)
+- 🧾 Know about my experiences [`Resume`](https://drive.google.com/file/d/1tAIPp68onvDwA-SlOWDWU6xY_liz-2mx/view){:target="_blank"}
 
-- ⚡ Favorite: I love to read books [`Goodreads`](https://www.goodreads.com/ashabhussan)
+- ⚡ Favorite: I love to read books [`Goodreads`](https://www.goodreads.com/ashabhussan){:target="_blank"}
 
- - 🟢 Currently I'm reading [`Rich Dad Poor Dad`](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) by Robert T. Kiyosaki
+ - 🟢 Currently I'm reading [`Rich Dad Poor Dad`](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad){:target="_blank"} by Robert T. Kiyosaki
 
-- 📝 I rarely write articles on [`Hashnode`](https://ashabhussan.hashnode.dev)
+- 📝 I rarely write articles on [`Hashnode`](https://ashabhussan.hashnode.dev){:target="_blank"}
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
-<a href="https://linkedin.com/in/ashabhussan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashabhussan" height="30" width="40" /></a>  
-<a href="https://hashnode.com/@ashabhussan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ashabhussan" height="30" width="40" /></a>  
-<a href="https://www.leetcode.com/shadow_chaser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shadow_chaser" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/ashabhussan" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashabhussan" height="30" width="40"  /></a>  
+<a href="https://hashnode.com/@ashabhussan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ashabhussan" height="30" width="40" /></a>  
+<a href="https://www.leetcode.com/shadow_chaser" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shadow_chaser" height="30" width="40" /></a>  
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
