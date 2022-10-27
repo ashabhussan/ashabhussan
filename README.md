@@ -21,7 +21,9 @@
 
 - ⚡ Favorite: I love to read books [`Goodreads`](https://www.goodreads.com/ashabhussan)
 
- - 🟢 Currently I'm reading [`Rich Dad Poor Dad`](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) by Robert T. Kiyosaki
+<!---
+- 🟢 Currently I'm reading [`Rich Dad Poor Dad`](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) by Robert T. Kiyosaki
+-->
 
 - 📝 I rarely write articles on [`Hashnode`](https://ashabhussan.hashnode.dev)
 
