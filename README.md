@@ -75,4 +75,4 @@
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>   
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadow-chaser&show_icons=true&locale=en&layout=compact" alt="shadow-chaser" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashabhussan&show_icons=true&locale=en&layout=compact" alt="ashabhussan" /></p>
