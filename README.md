@@ -15,7 +15,7 @@
 
 <h2> About Me </h2>
 
-- 🌱 I’m currently learning **`Best Practices and Conventions of Rest API`**
+- 🌱 I’m currently learning **GraphQL and Redis`**
 
 - 🧾 Know about my experiences [`Resume`](https://drive.google.com/file/d/1tAIPp68onvDwA-SlOWDWU6xY_liz-2mx/view)
 
