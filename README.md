@@ -13,6 +13,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadow-chaser&label=Profile%20views&color=0e75b6&style=flat" alt="shadow-chaser" /> </p>
 
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/643e2e25e27257737490ed35?variant=dark" alt="roadmap.sh"/></a>
+
 <h2> About Me </h2>
 
 - 🌱 I’m currently learning **GraphQL and Redis`**
